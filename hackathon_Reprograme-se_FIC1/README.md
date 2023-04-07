@@ -4,13 +4,13 @@
 
 </div>
 
-<img src="../img/projeto.png" alt="pagina em execução">
+<img src="../img/projetoFIC1.png" alt="pagina em execução">
 
 <br>
 
 <div align="center">
 
-[Visualizar Página](https://gabrielmorozini.com.br/taskMaster/)
+[Visualizar Página](https://gabrielmorozini.com.br/hackathon_Reprograme-se_FIC1/)
 </div>
 
 ## 📚 Sobre o projeto 
